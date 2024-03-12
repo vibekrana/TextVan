@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TextVan/static/css/main.f855e6bc.css",
-    "main.js": "/TextVan/static/js/main.69ae7c84.js",
+    "main.js": "/TextVan/static/js/main.874287f4.js",
     "static/js/453.fc054035.chunk.js": "/TextVan/static/js/453.fc054035.chunk.js",
     "index.html": "/TextVan/index.html",
     "main.f855e6bc.css.map": "/TextVan/static/css/main.f855e6bc.css.map",
-    "main.69ae7c84.js.map": "/TextVan/static/js/main.69ae7c84.js.map",
+    "main.874287f4.js.map": "/TextVan/static/js/main.874287f4.js.map",
     "453.fc054035.chunk.js.map": "/TextVan/static/js/453.fc054035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.69ae7c84.js"
+    "static/js/main.874287f4.js"
   ]
 }
