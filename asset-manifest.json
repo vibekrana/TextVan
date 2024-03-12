@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vibekrana/TextVan/static/css/main.f855e6bc.css",
-    "main.js": "/vibekrana/TextVan/static/js/main.9f0cd0ac.js",
-    "static/js/453.fc054035.chunk.js": "/vibekrana/TextVan/static/js/453.fc054035.chunk.js",
-    "index.html": "/vibekrana/TextVan/index.html",
-    "main.f855e6bc.css.map": "/vibekrana/TextVan/static/css/main.f855e6bc.css.map",
-    "main.9f0cd0ac.js.map": "/vibekrana/TextVan/static/js/main.9f0cd0ac.js.map",
-    "453.fc054035.chunk.js.map": "/vibekrana/TextVan/static/js/453.fc054035.chunk.js.map"
+    "main.css": "/TextVan/static/css/main.f855e6bc.css",
+    "main.js": "/TextVan/static/js/main.f5c43372.js",
+    "static/js/453.fc054035.chunk.js": "/TextVan/static/js/453.fc054035.chunk.js",
+    "index.html": "/TextVan/index.html",
+    "main.f855e6bc.css.map": "/TextVan/static/css/main.f855e6bc.css.map",
+    "main.f5c43372.js.map": "/TextVan/static/js/main.f5c43372.js.map",
+    "453.fc054035.chunk.js.map": "/TextVan/static/js/453.fc054035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9f0cd0ac.js"
+    "static/js/main.f5c43372.js"
   ]
 }
